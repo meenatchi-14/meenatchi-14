@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=meenatchi-14&label=Profile%20views&color=0e75b6&style=flat" alt="meenatchi-14" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=meenatchi-14" alt="meenatchi-14" /></a> </p>
-
 - 🌱 I’m currently learning **Problem Solving**
 
 - 📫 How to reach me **meenatchicse44@gmail.com**
